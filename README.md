@@ -14,4 +14,4 @@ Index.php contains curl script to fetch the data from the url mentioned above. T
 The data is fetched in xml format.
 Mysql queries are used to store the data into 2 tables : calorific_data and calorific_value.
 Using php, data from the database is displayed in web page.
-Fusion Charts is used to display the data into graphical representation. For that, include the fusioncharts.php file in the index.php directory. 
+Fusion Charts is used to give graphical representation of the data. For that, include the fusioncharts.php file in the index.php directory. 
